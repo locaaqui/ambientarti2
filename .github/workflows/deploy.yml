@@ -24,7 +24,7 @@ jobs:
 
       - name: Deploy para Aplicativo W
         env:
-          DEPLOYMENT_TOKEN: ${{ secrets.DEPLOYMENT_TOKEN }}
+          DEPLOYMENT_TOKEN: ${{ secrets.6c1276c28641a40f264129458e3ce2d00c82450337802471f86a04726308901d02-248eb31e-94b3-4a69-b837-6375b43b5c4f01002280302f9810 }}
         run: |
           curl -X POST https://ambientarti.com.br/api/deploy \
             -H "Authorization: Bearer $DEPLOYMENT_TOKEN" \
