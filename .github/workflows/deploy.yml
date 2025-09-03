@@ -1,1 +1,33 @@
+name: Deploy Aplicativo W
+
+on:
+  push:
+    branches:
+      - main  # ou a branch que você usa para produção
+
+jobs:
+  deploy:
+    name: Implantar em Produção
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout do código
+        uses: actions/checkout@v3
+
+      - name: Instalar dependências
+        run: |
+          npm install  # ou outro comando, dependendo da stack
+
+      - name: Build do projeto
+        run: |
+          npm run build  # ou outro comando, como yarn build
+
+      - name: Deploy para Aplicativo W
+        env:
+          DEPLOYMENT_TOKEN: ${{ secrets.DEPLOYMENT_TOKEN }}
+        run: |
+          curl -X POST https://ambientarti.com.br/api/deploy \
+            -H "Authorization: Bearer $DEPLOYMENT_TOKEN" \
+            -H "Content-Type: application/json" \
+            -d '{"versao":"1.0.0","ambiente":"producao"}'
 
