@@ -2,93 +2,93 @@ User-agent: *
 Disallow: 
 
 User-agent: *
-Allow: http://www.ambientarti.com/sitemap.xml
-Allow: http://www.ambientarti.com/nossoapp.html
-Allow: https://www.ambientarti.com.br/www.ambientarti.com.br/index.html
-Allow: https://www.ambientarti.com.br/about.html
-Allow: https://www.ambientarti.com.br/algueldefestas.html
-Allow: https://www.ambientarti.com.br/Aluguericho.html
-Allow: https://www.ambientarti.com.br/Alugueltoalhasparafestainfantil.html
-Allow: https://www.ambientarti.com.br/aluguel_de_mesas_e_cadeiras.html
-Allow: https://www.ambientarti.com.br/Aluguel_de_mesas_e_cadeiras_em_Jundiaí.html
-Allow: https://www.ambientarti.com.br/aluguel_Jundiai.html
-Allow: https://www.ambientarti.com.br/alugueldecadeira.html
-Allow: https://www.ambientarti.com.br/Alugueldefesta.html
-Allow: https://www.ambientarti.com.br/Alugueldefestas.html
-Allow: https://www.ambientarti.com.br/alugueldemesa.html
-Allow: https://www.ambientarti.com.br/alugueldemesasecadeiras.html
-Allow: https://www.ambientarti.com.br/AlugueldeMesaseCadeirasParaCasamento.html
-Allow: https://www.ambientarti.com.br/AluguelMesa4CadeirasMadeiraDobravel.html
-Allow: https://www.ambientarti.com.br/produtos.html
-Allow: https://www.ambientarti.com.br/aluguelrdechaud.html
-Allow: https://www.ambientarti.com.br/aluguelricho.html
-Allow: https://www.ambientarti.com.br/produtos.html
-Allow: https://www.ambientarti.com.br/alugueltoalhasparafesta2.html
-Allow: https://www.ambientarti.com.br/Alugueltoalhasparafestainfantil.html
-Allow: https://www.ambientarti.com.br/Alugueltudoparafesta.html
-Allow: https://www.ambientarti.com.br/aluguetudoparafesta.html
-Allow: https://www.ambientarti.com.br/app.html
-Allow: https://www.ambientarti.com.br/Appdelocacao.html
-Allow: https://www.ambientarti.com.br/atendimentowhatsapp.html
-Allow: https://www.ambientarti.com.br/blog_publicacao.html
-Allow: https://www.ambientarti.com.br/blog.html
-Allow: https://www.ambientarti.com.br/cadeirasAlugue.html
-Allow: https://www.ambientarti.com.br/cadeirasaluguel.html
-Allow: https://www.ambientarti.com.br/churrasqueira.html
-Allow: https://www.ambientarti.com.br/contato.html
-Allow: https://www.ambientarti.com.br/contato_facebook.html
-Allow: https://www.ambientarti.com.br/contato_google.html
-Allow: https://www.ambientarti.com.br/contato_Instagram.html
-Allow: https://www.ambientarti.com.br/contato_Waze.html
-Allow: https://www.ambientarti.com.br/coposAlugue.html
-Allow: https://www.ambientarti.com.br/coposgarfosefacas.html
-Allow: https://www.ambientarti.com.br/decoracaoparafesta.html
-Allow: https://www.ambientarti.com.br/donateandhelpus.html
-Allow: https://www.ambientarti.com.br/FazendoaFestaemJundiaiDecoracaoProvençalAluguel.html
-Allow: https://www.ambientarti.com.br/fazendoafestaJundiai.html
-Allow: https://www.ambientarti.com.br/festadefesta.html
-Allow: https://www.ambientarti.com.br/galeria.html
-Allow: https://www.ambientarti.com.br/index.html
-Allow: https://www.ambientarti.com.br/index2.html
-Allow: https://www.ambientarti.com.br/index4.html
-Allow: https://www.ambientarti.com.br/jarrasparaAluguer.html
-Allow: https://www.ambientarti.com.br/kit_festa_Jundiai.html
-Allow: https://www.ambientarti.com.br/locaaquiJundiai.html
-Allow: https://www.ambientarti.com.br/LocacaodeMesaseCadeirasSeuchurrascoconfortavel.html
-Allow: https://www.ambientarti.com.br/LocacaodeUtensliosparaFestaJundiaiAlugueld.html
-Allow: https://www.ambientarti.com.br/LocacaodeUtensliosparaFestaJundiaiAluguelde.html
-Allow: https://www.ambientarti.com.br/LocacaomesaecadeiraSP.html
-Allow: https://www.ambientarti.com.br/ambientarti.html
-Allow: https://www.ambientarti.com.br/localizacaoJundiai.html
-Allow: https://www.ambientarti.com.br/localizacao.html
-Allow: https://www.ambientarti.com.br/locação_Jundiai.html
-Allow: https://www.ambientarti.com.br/loja_de_festa_Jundiai.html
-Allow: https://www.ambientarti.com.br/loja_de_festas_Jundiai.html
-Allow: https://www.ambientarti.com.br/LomafeFestas.html
-Allow: https://www.ambientarti.com.br/MakingParty.html
-Allow: https://www.ambientarti.com.br/marylocacoes.html
-Allow: https://www.ambientarti.com.br/menu.html
-Allow: https://www.ambientarti.com.br/mesa_termica.html
-Allow: https://www.ambientarti.com.br/mesasAlugue.html
-Allow: https://www.ambientarti.com.br/mesasaluguel.html
-Allow: https://www.ambientarti.com.br/nossoapp.html
-Allow: https://www.ambientarti.com.br/orcamento.html
-Allow: https://www.ambientarti.com.br/orcamentos.html
-Allow: https://www.ambientarti.com.br/PartyEquipmentRentalServices.html
-Allow: https://www.ambientarti.com.br/pqAluguer.html
-Allow: https://www.ambientarti.com.br/pratosAlugue.html
-Allow: https://www.ambientarti.com.br/pratosparaAluguer.html
-Allow: https://www.ambientarti.com.br/products.html
-Allow: https://www.ambientarti.com.br/produtos.html
-Allow: https://www.ambientarti.com.br/RentalLocações.html
-Allow: https://www.ambientarti.com.br/richo.html
-Allow: https://www.ambientarti.com.br/richo_de_mesa.html
-Allow: https://www.ambientarti.com.br/sistemalocacao.html
-Allow: https://www.ambientarti.com.br/sitenogoogle.html
-Allow: https://www.ambientarti.com.br/souplat_para_casamento.html
-Allow: https://www.ambientarti.com.br/store.html
-Allow: https://www.ambientarti.com.br/www.ambientarti.com.br.html
-Allow: https://www.ambientarti.com.br/festa-italiana-comeca-neste-final-de-semana-na-colonia.html
-Allow: https://www.ambientarti.com.br/festa-italiana-di-Jundiai.html
-Allow: https://www.ambientarti.com.br/alegria-do-encontro-e-delicia-dos-sabores-festa-italiana-de-Jundiai-acontece-em-maio-e-junho.html
+Allow: http://www.ambientarti Locaki.com/sitemap.xml
+Allow: http://www.ambientarti Locaki.com/nossoapp.html
+Allow: https://www.ambientarti Locaki.com.br/www.ambientarti Locaki.com.br/index.html
+Allow: https://www.ambientarti Locaki.com.br/about.html
+Allow: https://www.ambientarti Locaki.com.br/algueldefestas.html
+Allow: https://www.ambientarti Locaki.com.br/Aluguericho.html
+Allow: https://www.ambientarti Locaki.com.br/Alugueltoalhasparafestainfantil.html
+Allow: https://www.ambientarti Locaki.com.br/aluguel_de_mesas_e_cadeiras.html
+Allow: https://www.ambientarti Locaki.com.br/Aluguel_de_mesas_e_cadeiras_em_Jundiaí.html
+Allow: https://www.ambientarti Locaki.com.br/aluguel_Jundiai.html
+Allow: https://www.ambientarti Locaki.com.br/alugueldecadeira.html
+Allow: https://www.ambientarti Locaki.com.br/Alugueldefesta.html
+Allow: https://www.ambientarti Locaki.com.br/Alugueldefestas.html
+Allow: https://www.ambientarti Locaki.com.br/alugueldemesa.html
+Allow: https://www.ambientarti Locaki.com.br/alugueldemesasecadeiras.html
+Allow: https://www.ambientarti Locaki.com.br/AlugueldeMesaseCadeirasParaCasamento.html
+Allow: https://www.ambientarti Locaki.com.br/AluguelMesa4CadeirasMadeiraDobravel.html
+Allow: https://www.ambientarti Locaki.com.br/produtos.html
+Allow: https://www.ambientarti Locaki.com.br/aluguelrdechaud.html
+Allow: https://www.ambientarti Locaki.com.br/aluguelricho.html
+Allow: https://www.ambientarti Locaki.com.br/produtos.html
+Allow: https://www.ambientarti Locaki.com.br/alugueltoalhasparafesta2.html
+Allow: https://www.ambientarti Locaki.com.br/Alugueltoalhasparafestainfantil.html
+Allow: https://www.ambientarti Locaki.com.br/Alugueltudoparafesta.html
+Allow: https://www.ambientarti Locaki.com.br/aluguetudoparafesta.html
+Allow: https://www.ambientarti Locaki.com.br/app.html
+Allow: https://www.ambientarti Locaki.com.br/Appdelocacao.html
+Allow: https://www.ambientarti Locaki.com.br/atendimentowhatsapp.html
+Allow: https://www.ambientarti Locaki.com.br/blog_publicacao.html
+Allow: https://www.ambientarti Locaki.com.br/blog.html
+Allow: https://www.ambientarti Locaki.com.br/cadeirasAlugue.html
+Allow: https://www.ambientarti Locaki.com.br/cadeirasaluguel.html
+Allow: https://www.ambientarti Locaki.com.br/churrasqueira.html
+Allow: https://www.ambientarti Locaki.com.br/contato.html
+Allow: https://www.ambientarti Locaki.com.br/contato_facebook.html
+Allow: https://www.ambientarti Locaki.com.br/contato_google.html
+Allow: https://www.ambientarti Locaki.com.br/contato_Instagram.html
+Allow: https://www.ambientarti Locaki.com.br/contato_Waze.html
+Allow: https://www.ambientarti Locaki.com.br/coposAlugue.html
+Allow: https://www.ambientarti Locaki.com.br/coposgarfosefacas.html
+Allow: https://www.ambientarti Locaki.com.br/decoracaoparafesta.html
+Allow: https://www.ambientarti Locaki.com.br/donateandhelpus.html
+Allow: https://www.ambientarti Locaki.com.br/FazendoaFestaemJundiaiDecoracaoProvençalAluguel.html
+Allow: https://www.ambientarti Locaki.com.br/fazendoafestaJundiai.html
+Allow: https://www.ambientarti Locaki.com.br/festadefesta.html
+Allow: https://www.ambientarti Locaki.com.br/galeria.html
+Allow: https://www.ambientarti Locaki.com.br/index.html
+Allow: https://www.ambientarti Locaki.com.br/index2.html
+Allow: https://www.ambientarti Locaki.com.br/index4.html
+Allow: https://www.ambientarti Locaki.com.br/jarrasparaAluguer.html
+Allow: https://www.ambientarti Locaki.com.br/kit_festa_Jundiai.html
+Allow: https://www.ambientarti Locaki.com.br/locaaquiJundiai.html
+Allow: https://www.ambientarti Locaki.com.br/LocacaodeMesaseCadeirasSeuchurrascoconfortavel.html
+Allow: https://www.ambientarti Locaki.com.br/LocacaodeUtensliosparaFestaJundiaiAlugueld.html
+Allow: https://www.ambientarti Locaki.com.br/LocacaodeUtensliosparaFestaJundiaiAluguelde.html
+Allow: https://www.ambientarti Locaki.com.br/LocacaomesaecadeiraSP.html
+Allow: https://www.ambientarti Locaki.com.br/ambientarti Locaki.html
+Allow: https://www.ambientarti Locaki.com.br/localizacaoJundiai.html
+Allow: https://www.ambientarti Locaki.com.br/localizacao.html
+Allow: https://www.ambientarti Locaki.com.br/locação_Jundiai.html
+Allow: https://www.ambientarti Locaki.com.br/loja_de_festa_Jundiai.html
+Allow: https://www.ambientarti Locaki.com.br/loja_de_festas_Jundiai.html
+Allow: https://www.ambientarti Locaki.com.br/LomafeFestas.html
+Allow: https://www.ambientarti Locaki.com.br/MakingParty.html
+Allow: https://www.ambientarti Locaki.com.br/marylocacoes.html
+Allow: https://www.ambientarti Locaki.com.br/menu.html
+Allow: https://www.ambientarti Locaki.com.br/mesa_termica.html
+Allow: https://www.ambientarti Locaki.com.br/mesasAlugue.html
+Allow: https://www.ambientarti Locaki.com.br/mesasaluguel.html
+Allow: https://www.ambientarti Locaki.com.br/nossoapp.html
+Allow: https://www.ambientarti Locaki.com.br/orcamento.html
+Allow: https://www.ambientarti Locaki.com.br/orcamentos.html
+Allow: https://www.ambientarti Locaki.com.br/PartyEquipmentRentalServices.html
+Allow: https://www.ambientarti Locaki.com.br/pqAluguer.html
+Allow: https://www.ambientarti Locaki.com.br/pratosAlugue.html
+Allow: https://www.ambientarti Locaki.com.br/pratosparaAluguer.html
+Allow: https://www.ambientarti Locaki.com.br/products.html
+Allow: https://www.ambientarti Locaki.com.br/produtos.html
+Allow: https://www.ambientarti Locaki.com.br/RentalLocações.html
+Allow: https://www.ambientarti Locaki.com.br/richo.html
+Allow: https://www.ambientarti Locaki.com.br/richo_de_mesa.html
+Allow: https://www.ambientarti Locaki.com.br/sistemalocacao.html
+Allow: https://www.ambientarti Locaki.com.br/sitenogoogle.html
+Allow: https://www.ambientarti Locaki.com.br/souplat_para_casamento.html
+Allow: https://www.ambientarti Locaki.com.br/store.html
+Allow: https://www.ambientarti Locaki.com.br/www.ambientarti Locaki.com.br.html
+Allow: https://www.ambientarti Locaki.com.br/festa-italiana-comeca-neste-final-de-semana-na-colonia.html
+Allow: https://www.ambientarti Locaki.com.br/festa-italiana-di-Jundiai.html
+Allow: https://www.ambientarti Locaki.com.br/alegria-do-encontro-e-delicia-dos-sabores-festa-italiana-de-Jundiai-acontece-em-maio-e-junho.html
  
